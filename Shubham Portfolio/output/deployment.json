@@ -1,0 +1,16 @@
+{
+  "provider": "Vercel",
+  "project": "shubham-protofolio",
+  "projectId": "prj_5hnYoTrbhxFTLLwR7KE00LdQbgz7",
+  "deploymentId": "dpl_BDkNoVmRP2b1wfaqQAu9RUJFqzcS",
+  "url": "https://shubham-protofolio.vercel.app",
+  "state": "READY",
+  "target": "production",
+  "source": "local site files",
+  "github": {
+    "repository": "Shubh12-577/Shubham-protofolio",
+    "sync": "pending",
+    "reason": "Connected GitHub account rajparking has pull access only; push permission false."
+  },
+  "aboutVideo": "shubham-about-v2.mp4"
+}
